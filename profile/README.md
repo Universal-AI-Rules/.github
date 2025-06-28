@@ -21,3 +21,16 @@ Universal AI Rules provides:
 npm install -g @universal-ai-rules/cli
 ai-rules init
 ai-rules sync
+```
+
+## Specification
+Read the [full specification](https://github.com/Universal-AI-Rules/specification)
+
+## Get Involved
+- ⭐ Star our repos
+- 📝 Review the [RFC process](https://github.com/Universal-AI-Rules/specification/tree/main/rfcs)
+- 🐛 Report issues
+- 🔧 Submit PRs
+
+## Supported Tools
+Claude, Cursor, GitHub Copilot, Windsurf, Aider, Cline, and more...
